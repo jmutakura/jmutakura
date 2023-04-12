@@ -4,7 +4,7 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
 - 🌱 I’m currently learning all I can about computers
-- 📫 How to reach me: [Personal Website](www.jmutakura.com)
+- 📫 How to reach me: [Personal Website](https://www.jmutakura.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
