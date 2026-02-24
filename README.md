@@ -1,5 +1,5 @@
 <div align="center">
-  ### 🚀 Fullstack Developer | Mobile Specialist | IoT Enthusiast
+  🚀 Fullstack Developer | Mobile Specialist | IoT Enthusiast
   
   [![Website](https://img.shields.io/badge/Personal_Website-000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.jmutakura.com)
 </div>
