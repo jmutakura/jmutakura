@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Jonathan%20👋&fontSize=70" />
-
   ### 🚀 Fullstack Developer | Mobile Specialist | IoT Enthusiast
   
   [![Website](https://img.shields.io/badge/Personal_Website-000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.jmutakura.com)
